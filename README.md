@@ -53,7 +53,7 @@ Each model was evaluated on the following metrics:
 |--------------------|-------------|--------------|
 | Custom CNN         | TensorFlow  | 98.2         |
 | Custom CNN         | PyTorch     | 98.5         |
-| ResNet-18 (FT)     | TensorFlow  | 99.1         |
+| ResNet-18 (FT)     | PyTorch     |  99.1         |
 
 
 > ✅ All models achieved **98–99% classification accuracy**, showcasing the robustness of deep learning approaches for RS image scene classification on the RSI-CB256 dataset.
